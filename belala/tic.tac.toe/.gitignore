@@ -1,0 +1,8 @@
+.settings/
+bin/
+*.class
+/.project
+/.classpath
+.test/
+.tests/
+.recommenders/
